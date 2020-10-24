@@ -5,6 +5,7 @@
 // This code is a modified version of sample code from www.timnolan.com
 // updated 06/07/2015
 // Adapted for Arduino Pro mini on my project on 11/2016
+#include "LCD.h"
 #include "LCD.h" 
 #include "TimerOne.h"
 #include "LiquidCrystal_I2C.h"
